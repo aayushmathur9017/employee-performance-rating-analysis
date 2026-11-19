@@ -1,0 +1,8 @@
+dept_id,dept_name,cost_center,department_head,location,division,budget,created_at
+1,Engineering,CC-ENG-101,Dr. Rajesh Sharma,Bengaluru,Technology,15000000.0,2018-01-15
+2,Sales,CC-SAL-201,Vikram Malhotra,Gurugram,Commercial,12000000.0,2018-03-01
+3,Marketing,CC-MKT-301,Ananya Iyer,Mumbai,Commercial,8500000.0,2018-06-10
+4,Human Resources,CC-HR-401,Priya Patel,Noida,Corporate Services,5000000.0,2018-01-20
+5,Finance,CC-FIN-501,Suresh Reddy,Pune,Corporate Services,7500000.0,2018-04-12
+6,Operations,CC-OPS-601,Rohit Verma,Hyderabad,Operations,11000000.0,2018-02-28
+7,Product,CC-PRD-701,Sneha Rao,Bengaluru,Technology,9000000.0,2019-05-15

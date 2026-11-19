@@ -1,0 +1,951 @@
+training_id,emp_id,training_course_name,course_name,training_category,training_hours,hours_completed,completion_date,training_score,assessment_score,feedback_rating,certification_earned
+1,EMP-0388,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,16.0,16.0,2021-11-29,68.1,68.1,4.3,0
+2,EMP-0530,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.2,33.2,2025-04-05,79.9,79.9,4.3,0
+3,EMP-0229,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.9,48.9,2025-08-04,90.0,90.0,4.2,1
+4,EMP-0362,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.7,14.7,2026-07-02,89.6,89.6,4.3,1
+5,EMP-0494,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,11.5,11.5,2021-02-11,78.7,78.7,3.9,0
+6,EMP-0514,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.6,32.6,2025-12-21,82.4,82.4,3.2,1
+7,EMP-0170,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,18.0,18.0,2021-11-26,72.9,72.9,4.2,0
+8,EMP-0527,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.3,34.3,2023-05-31,66.8,66.8,3.9,0
+9,EMP-0154,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.8,31.8,2022-10-21,73.2,73.2,4.2,0
+10,EMP-0371,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.6,22.6,2022-05-14,74.8,74.8,4.4,0
+11,EMP-0236,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.5,11.5,2024-09-28,71.1,71.1,4.1,0
+12,EMP-0117,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.8,29.8,2026-05-30,95.4,95.4,5.0,1
+13,EMP-0491,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.7,21.7,2022-11-06,76.0,76.0,4.2,0
+14,EMP-0421,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.8,37.8,2023-10-10,93.5,93.5,4.3,1
+15,EMP-0045,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.2,32.2,2022-11-05,88.1,88.1,4.3,1
+16,EMP-0138,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.2,49.2,2021-06-24,84.5,84.5,4.1,1
+17,EMP-0151,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.4,36.4,2022-11-27,98.7,98.7,3.7,1
+18,EMP-0265,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,38.6,38.6,2026-11-01,85.2,85.2,3.9,1
+19,EMP-0416,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.2,22.2,2021-04-01,89.5,89.5,5.0,1
+20,EMP-0291,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,30.7,30.7,2023-06-21,80.7,80.7,4.9,1
+21,EMP-0460,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.0,23.0,2026-04-29,86.6,86.6,4.9,1
+22,EMP-0494,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.3,31.3,2023-07-02,59.2,59.2,4.0,0
+23,EMP-0421,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,28.0,28.0,2022-08-22,84.8,84.8,3.8,1
+24,EMP-0187,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,25.3,25.3,2026-10-08,90.0,90.0,4.3,1
+25,EMP-0271,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.3,34.3,2024-11-18,72.3,72.3,4.0,0
+26,EMP-0465,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.7,19.7,2021-10-23,92.4,92.4,3.9,1
+27,EMP-0236,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.9,11.9,2025-05-12,95.7,95.7,5.0,1
+28,EMP-0136,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.5,32.5,2021-03-23,83.3,83.3,3.4,1
+29,EMP-0208,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.9,47.9,2026-09-11,79.2,79.2,4.8,0
+30,EMP-0430,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,27.3,27.3,2022-02-13,69.6,69.6,5.0,0
+31,EMP-0182,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.5,25.5,2021-06-23,83.9,83.9,4.3,1
+32,EMP-0545,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.9,44.9,2022-05-11,74.5,74.5,4.8,0
+33,EMP-0096,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.7,30.7,2022-07-02,81.9,81.9,4.1,1
+34,EMP-0553,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.3,41.3,2025-11-17,85.6,85.6,4.8,1
+35,EMP-0535,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.9,11.9,2025-03-12,86.2,86.2,4.6,1
+36,EMP-0045,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.9,50.9,2025-11-07,95.8,95.8,4.2,1
+37,EMP-0235,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.7,25.7,2025-04-25,,,4.5,0
+38,EMP-0359,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.6,19.6,2022-02-19,100.0,100.0,4.2,1
+39,EMP-0436,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,28.2,28.2,2023-11-23,85.1,85.1,5.0,1
+40,EMP-0489,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,20.7,20.7,2021-12-24,74.0,74.0,4.1,0
+41,EMP-0291,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.4,17.4,2025-08-15,69.2,69.2,3.4,0
+42,EMP-0264,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.9,24.9,2021-02-06,,,3.8,1
+43,EMP-0008,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.7,19.7,2022-05-12,83.8,83.8,3.6,1
+44,EMP-0533,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,43.4,43.4,2025-03-31,84.0,84.0,4.5,1
+45,EMP-0211,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.7,18.7,2025-08-16,100.0,100.0,3.7,1
+46,EMP-0371,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.4,32.4,2022-10-10,98.0,98.0,4.5,1
+47,EMP-0437,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.3,20.3,2023-11-19,77.5,77.5,4.1,0
+48,EMP-0268,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.2,47.2,2025-10-15,67.8,67.8,4.7,0
+49,EMP-0375,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,12.0,12.0,2024-02-17,73.9,73.9,4.0,0
+50,EMP-0407,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,32.6,32.6,2025-09-03,81.0,81.0,4.4,1
+51,EMP-0566,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.5,44.5,2026-06-14,90.3,90.3,5.0,1
+52,EMP-0184,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.0,18.0,2026-06-19,78.8,78.8,3.2,0
+53,EMP-0260,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.8,32.8,2024-11-25,,,3.8,0
+54,EMP-0408,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,35.7,35.7,2022-05-17,77.5,77.5,4.2,0
+55,EMP-0236,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.0,31.0,2022-11-08,75.3,75.3,3.6,0
+56,EMP-0103,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.9,25.9,2026-09-28,89.2,89.2,3.9,1
+57,EMP-0411,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.5,13.5,2021-08-16,71.5,71.5,4.6,0
+58,EMP-0165,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,19.7,19.7,2021-02-05,90.8,90.8,4.2,1
+59,EMP-0094,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.9,34.9,2026-04-30,74.1,74.1,4.4,0
+60,EMP-0446,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.7,31.7,2021-10-04,80.8,80.8,4.7,1
+61,EMP-0270,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.2,27.2,2025-03-13,87.4,87.4,4.4,1
+62,EMP-0082,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.1,17.1,2021-06-18,83.4,83.4,4.6,1
+63,EMP-0394,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.0,11.0,2024-04-02,80.1,80.1,4.0,1
+64,EMP-0059,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.9,30.9,2026-08-01,74.7,74.7,4.2,0
+65,EMP-0450,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.7,38.7,2023-04-21,68.0,68.0,5.0,0
+66,EMP-0531,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,25.9,25.9,2023-03-23,80.7,80.7,4.2,1
+67,EMP-0035,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.9,17.9,2026-10-07,81.1,81.1,3.8,1
+68,EMP-0529,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.9,26.9,2022-12-10,81.8,81.8,4.6,1
+69,EMP-0037,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.9,21.9,2023-09-21,79.3,79.3,4.6,0
+70,EMP-0001,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,38.1,38.1,2022-01-05,80.8,80.8,4.5,1
+71,EMP-0283,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.1,10.1,2024-12-31,93.4,93.4,4.0,1
+72,EMP-0405,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.8,14.8,2023-04-15,91.5,91.5,3.6,1
+73,EMP-0531,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.3,37.3,2021-10-23,75.3,75.3,4.7,0
+74,EMP-0093,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.3,43.3,2024-03-25,85.1,85.1,4.6,1
+75,EMP-0573,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.7,20.7,2024-12-10,94.1,94.1,3.2,1
+76,EMP-0356,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.4,32.4,2023-07-30,80.3,80.3,3.4,1
+77,EMP-0200,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.7,23.7,2025-07-27,96.9,96.9,4.5,1
+78,EMP-0005,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.2,33.2,2023-01-01,91.1,91.1,3.5,1
+79,EMP-0417,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.0,49.0,2022-03-27,92.4,92.4,4.0,1
+80,EMP-0573,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,41.4,41.4,2026-09-06,76.2,76.2,4.3,0
+81,EMP-0302,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.6,17.6,2022-05-09,89.2,89.2,4.1,1
+82,EMP-0526,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.0,34.0,2023-11-05,86.1,86.1,3.4,1
+83,EMP-0454,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,19.3,19.3,2026-06-18,72.9,72.9,5.0,0
+84,EMP-0250,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.4,15.4,2026-03-09,78.7,78.7,4.4,0
+85,EMP-0472,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.2,17.2,2021-05-07,64.1,64.1,4.1,0
+86,EMP-0494,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.5,37.5,2023-12-07,96.6,96.6,3.6,1
+87,EMP-0070,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.3,14.3,2023-07-06,81.0,81.0,4.2,1
+88,EMP-0236,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,19.9,19.9,2025-08-31,77.1,77.1,4.3,0
+89,EMP-0362,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,52.4,52.4,2021-02-23,91.8,91.8,3.6,1
+90,EMP-0270,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.5,21.5,2024-04-05,80.6,80.6,4.6,1
+91,EMP-0096,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.0,11.0,2024-11-15,82.8,82.8,4.8,1
+92,EMP-0078,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.6,46.6,2023-01-16,96.0,96.0,3.4,1
+93,EMP-0488,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.4,14.4,2025-01-02,69.0,69.0,4.3,0
+94,EMP-0224,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.0,23.0,2024-01-22,80.5,80.5,4.0,1
+95,EMP-0188,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,18.6,18.6,2026-08-20,98.0,98.0,4.2,1
+96,EMP-0205,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.2,22.2,2023-10-03,96.8,96.8,4.0,1
+97,EMP-0272,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,20.4,20.4,2023-08-11,75.3,75.3,3.8,0
+98,EMP-0208,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,19.7,19.7,2025-01-12,75.4,75.4,5.0,0
+99,EMP-0160,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.4,31.4,2022-05-21,67.8,67.8,4.3,0
+100,EMP-0081,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.7,27.7,2021-02-11,88.3,88.3,3.9,1
+101,EMP-0555,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.5,36.5,2026-06-13,97.9,97.9,3.4,1
+102,EMP-0381,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,21.4,21.4,2024-07-29,88.6,88.6,4.6,1
+103,EMP-0505,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.8,18.8,2024-02-14,70.1,70.1,4.9,0
+104,EMP-0503,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.2,30.2,2026-10-09,96.5,96.5,4.4,1
+105,EMP-0287,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.1,10.1,2023-07-13,85.7,85.7,4.8,1
+106,EMP-0132,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,40.3,40.3,2025-10-14,75.0,75.0,3.3,0
+107,EMP-0490,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.3,46.3,2021-05-28,89.7,89.7,3.7,1
+108,EMP-0515,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.7,18.7,2025-06-15,82.3,82.3,4.6,1
+109,EMP-0179,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,18.6,18.6,2022-05-23,68.5,68.5,4.0,0
+110,EMP-0531,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,35.5,35.5,2024-07-30,74.8,74.8,4.1,0
+111,EMP-0009,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,48.6,48.6,2023-05-28,86.1,86.1,4.6,1
+112,EMP-0389,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,180.0,180.0,2022-03-03,93.2,93.2,4.9,1
+113,EMP-0334,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.0,18.0,2023-12-14,81.2,81.2,4.5,1
+114,EMP-0192,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,41.5,41.5,2023-12-27,92.3,92.3,3.8,1
+115,EMP-0243,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.9,28.9,2026-04-29,94.5,94.5,4.7,1
+116,EMP-0352,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,9.5,9.5,2023-02-07,73.0,73.0,4.5,0
+117,EMP-0511,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2023-05-27,95.5,95.5,4.3,1
+118,EMP-0430,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.7,21.7,2025-02-18,74.9,74.9,3.9,0
+119,EMP-0411,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.1,34.1,2026-02-04,79.2,79.2,3.6,0
+120,EMP-0185,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.2,22.2,2022-07-06,66.9,66.9,4.9,0
+121,EMP-0235,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.7,36.7,2024-01-25,73.5,73.5,4.8,0
+122,EMP-0242,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,52.7,52.7,2025-11-20,82.0,82.0,5.0,1
+123,EMP-0391,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,33.0,33.0,2022-09-04,85.1,85.1,4.7,1
+124,EMP-0154,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,33.2,33.2,2021-02-23,71.2,71.2,4.3,0
+125,EMP-0181,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.3,9.3,2026-08-23,74.2,74.2,4.3,0
+126,EMP-0138,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.8,48.8,2024-07-31,66.7,66.7,4.4,0
+127,EMP-0499,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,29.0,29.0,2023-11-08,95.3,95.3,4.8,1
+128,EMP-0049,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.6,8.6,2022-02-24,94.5,94.5,4.5,1
+129,EMP-0168,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,39.1,39.1,2023-06-16,77.1,77.1,3.6,0
+130,EMP-0261,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.1,23.1,2022-02-13,64.6,64.6,4.2,0
+131,EMP-0461,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,8.0,8.0,2023-12-15,73.8,73.8,4.5,0
+132,EMP-0370,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,22.0,22.0,2023-12-06,71.1,71.1,4.5,0
+133,EMP-0353,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.8,38.8,2025-08-28,77.1,77.1,4.3,0
+134,EMP-0125,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.4,13.4,2023-04-09,81.2,81.2,4.2,1
+135,EMP-0552,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.6,36.6,2024-03-25,95.1,95.1,3.9,1
+136,EMP-0364,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.9,14.9,2026-10-06,,,4.1,1
+137,EMP-0500,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.9,30.9,2021-12-02,90.6,90.6,4.7,1
+138,EMP-0391,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.4,20.4,2024-04-02,70.9,70.9,4.1,0
+139,EMP-0475,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.0,30.0,2022-12-02,89.4,89.4,5.0,1
+140,EMP-0346,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,18.2,18.2,2025-07-30,90.4,90.4,3.7,1
+141,EMP-0074,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,41.6,41.6,2022-11-09,86.1,86.1,3.8,1
+142,EMP-0352,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.4,27.4,2024-07-22,79.9,79.9,3.2,0
+143,EMP-0325,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.1,26.1,2024-01-15,81.4,81.4,4.1,1
+144,EMP-0405,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,25.7,25.7,2026-01-11,89.1,89.1,4.5,1
+145,EMP-0372,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,14.3,14.3,2026-02-02,100.0,100.0,3.6,1
+146,EMP-0424,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.2,30.2,2023-02-07,85.6,85.6,4.0,1
+147,EMP-0024,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,37.8,37.8,2023-09-03,80.3,80.3,3.7,1
+148,EMP-0258,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.5,38.5,2023-05-27,55.0,55.0,4.5,0
+149,EMP-0171,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,17.2,17.2,2022-03-12,60.1,60.1,4.0,0
+150,EMP-0098,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,29.4,29.4,2026-05-07,82.1,82.1,5.0,1
+151,EMP-0562,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,40.9,40.9,2021-05-02,79.9,79.9,2.8,0
+152,EMP-0407,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.6,43.6,2021-12-21,80.7,80.7,4.2,1
+153,EMP-0107,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,31.4,31.4,2022-10-13,89.3,89.3,3.7,1
+154,EMP-0087,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.2,12.2,2024-07-05,77.3,77.3,3.7,0
+155,EMP-0235,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,20.5,20.5,2024-03-23,87.1,87.1,2.9,1
+156,EMP-0454,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,24.6,24.6,2022-07-06,100.0,100.0,3.9,1
+157,EMP-0540,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,37.9,37.9,2021-05-12,81.4,81.4,3.9,1
+158,EMP-0036,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.6,18.6,2024-09-08,82.8,82.8,4.1,1
+159,EMP-0488,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.8,27.8,2024-02-04,85.7,85.7,3.9,1
+160,EMP-0562,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.1,26.1,2022-07-22,72.7,72.7,3.6,0
+161,EMP-0553,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,39.4,39.4,2026-02-28,73.4,73.4,4.7,0
+162,EMP-0446,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.6,46.6,2024-07-06,87.1,87.1,4.2,1
+163,EMP-0356,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,20.8,20.8,2023-08-03,82.3,82.3,4.5,1
+164,EMP-0092,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.2,24.2,2024-06-29,100.0,100.0,4.6,1
+165,EMP-0375,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,15.3,15.3,2023-12-15,90.8,90.8,3.0,1
+166,EMP-0160,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.8,32.8,2021-02-27,100.0,100.0,4.6,1
+167,EMP-0001,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.9,46.9,2022-07-27,71.4,71.4,3.6,0
+168,EMP-0353,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,24.7,24.7,2026-04-20,78.2,78.2,3.7,0
+169,EMP-0548,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,39.4,39.4,2026-07-22,83.9,83.9,3.3,1
+170,EMP-0489,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.9,26.9,2021-02-21,76.5,76.5,3.9,0
+171,EMP-0441,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.1,30.1,2023-08-20,83.2,83.2,4.0,1
+172,EMP-0008,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,45.3,45.3,2025-03-25,81.8,81.8,4.9,1
+173,EMP-0194,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2025-12-10,92.8,92.8,3.4,1
+174,EMP-0405,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.4,25.4,2022-11-14,92.0,92.0,3.5,1
+175,EMP-0400,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.4,13.4,2023-07-07,,,4.8,0
+176,EMP-0270,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,29.6,29.6,2025-10-10,73.5,73.5,4.3,0
+177,EMP-0246,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.8,50.8,2024-02-02,82.9,82.9,4.4,1
+178,EMP-0292,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,45.8,45.8,2024-01-21,71.6,71.6,4.9,0
+179,EMP-0423,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.0,26.0,2021-10-22,77.4,77.4,3.4,0
+180,EMP-0187,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.9,36.9,2024-04-15,94.0,94.0,4.1,1
+181,EMP-0114,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.4,25.4,2026-02-12,79.5,79.5,4.1,0
+182,EMP-0279,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.1,23.1,2026-07-23,71.2,71.2,3.9,0
+183,EMP-0193,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.3,15.3,2021-04-04,84.5,84.5,4.6,1
+184,EMP-0156,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.2,41.2,2021-04-15,98.6,98.6,3.7,1
+185,EMP-0191,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,41.8,41.8,2024-03-15,72.9,72.9,4.0,0
+186,EMP-0276,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,33.5,33.5,2025-12-15,93.2,93.2,4.0,1
+187,EMP-0009,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.6,25.6,2022-01-19,79.0,79.0,3.1,0
+188,EMP-0155,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,39.8,39.8,2026-07-29,70.2,70.2,4.8,0
+189,EMP-0223,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.1,21.1,2025-10-02,74.1,74.1,3.7,0
+190,EMP-0320,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.5,25.5,2025-03-16,87.1,87.1,4.5,1
+191,EMP-0475,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,53.6,53.6,2024-09-28,79.1,79.1,4.2,0
+192,EMP-0083,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,39.7,39.7,2021-09-01,84.7,84.7,3.7,1
+193,EMP-0273,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.4,13.4,2021-11-03,88.7,88.7,4.0,1
+194,EMP-0557,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.2,31.2,2023-01-28,88.7,88.7,4.0,1
+195,EMP-0197,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,36.2,36.2,2025-04-26,74.6,74.6,4.4,0
+196,EMP-0013,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.6,33.6,2023-10-31,65.9,65.9,4.4,0
+197,EMP-0395,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,35.7,35.7,2023-10-24,81.5,81.5,3.5,1
+198,EMP-0035,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.9,24.9,2026-03-17,74.2,74.2,4.7,0
+199,EMP-0097,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.1,47.1,2023-05-18,65.2,65.2,4.5,0
+200,EMP-0485,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.8,12.8,2024-07-16,79.2,79.2,3.7,0
+201,EMP-0331,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,39.2,39.2,2021-07-06,77.7,77.7,4.6,0
+202,EMP-0563,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.1,46.1,2022-05-30,88.5,88.5,4.2,1
+203,EMP-0260,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.1,28.1,2024-05-22,74.1,74.1,4.5,0
+204,EMP-0204,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.6,21.6,2021-08-16,72.2,72.2,3.8,0
+205,EMP-0224,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,47.8,47.8,2023-09-08,72.5,72.5,3.9,0
+206,EMP-0445,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.5,21.5,2021-03-17,95.4,95.4,3.0,1
+207,EMP-0172,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.1,33.1,2022-05-20,80.1,80.1,4.1,1
+208,EMP-0406,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,28.7,28.7,2021-02-20,78.7,78.7,3.9,0
+209,EMP-0044,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.7,18.7,2026-05-15,78.7,78.7,4.4,0
+210,EMP-0159,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.3,21.3,2022-01-16,86.1,86.1,4.2,1
+211,EMP-0255,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.2,34.2,2026-08-24,89.4,89.4,4.5,1
+212,EMP-0094,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.3,17.3,2024-11-01,86.0,86.0,3.1,1
+213,EMP-0062,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,46.1,46.1,2025-01-10,96.5,96.5,4.6,1
+214,EMP-0158,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,53.0,53.0,2022-03-30,81.3,81.3,3.8,1
+215,EMP-0129,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.0,23.0,2023-08-26,91.6,91.6,3.8,1
+216,EMP-0325,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.5,46.5,2024-12-07,84.1,84.1,4.2,1
+217,EMP-0450,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.1,25.1,2021-04-12,64.8,64.8,4.1,0
+218,EMP-0387,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,19.3,19.3,2022-07-20,77.9,77.9,3.8,0
+219,EMP-0257,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,43.8,43.8,2026-06-25,78.0,78.0,4.3,0
+220,EMP-0449,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.2,47.2,2024-05-06,82.0,82.0,5.0,1
+221,EMP-0556,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.3,30.3,2023-03-03,70.4,70.4,4.0,0
+222,EMP-0192,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.3,46.3,2024-12-09,84.1,84.1,4.7,1
+223,EMP-0332,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.1,28.1,2024-02-16,82.0,82.0,3.1,1
+224,EMP-0568,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,37.3,37.3,2021-10-24,80.4,80.4,4.3,1
+225,EMP-0544,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,33.0,33.0,2026-01-29,74.7,74.7,4.1,0
+226,EMP-0303,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.9,26.9,2025-02-26,95.1,95.1,3.1,1
+227,EMP-0465,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.2,36.2,2026-09-18,78.9,78.9,4.9,0
+228,EMP-0389,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.8,34.8,2021-04-01,66.4,66.4,4.1,0
+229,EMP-0373,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.9,22.9,2023-09-20,100.0,100.0,4.0,1
+230,EMP-0329,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.3,31.3,2025-05-21,85.1,85.1,4.2,1
+231,EMP-0195,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.9,49.9,2026-08-14,88.6,88.6,4.4,1
+232,EMP-0565,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.1,34.1,2024-03-19,97.5,97.5,4.1,1
+233,EMP-0331,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2024-08-26,85.0,85.0,3.6,1
+234,EMP-0114,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.5,31.5,2021-10-15,74.2,74.2,3.6,0
+235,EMP-0045,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.7,36.7,2023-01-16,82.5,82.5,4.6,1
+236,EMP-0033,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.0,26.0,2022-03-29,80.0,80.0,4.7,1
+237,EMP-0498,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.1,22.1,2022-02-23,,,3.8,1
+238,EMP-0033,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,25.6,25.6,2025-05-25,81.0,81.0,4.5,1
+239,EMP-0502,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,45.7,45.7,2023-11-29,90.0,90.0,4.6,1
+240,EMP-0051,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,9.5,9.5,2023-07-08,82.0,82.0,4.3,1
+241,EMP-0073,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.8,38.8,2023-05-19,95.2,95.2,3.6,1
+242,EMP-0504,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.2,34.2,2026-04-16,73.9,73.9,4.7,0
+243,EMP-0063,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,11.9,11.9,2025-09-14,64.6,64.6,4.4,0
+244,EMP-0378,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,39.4,39.4,2024-01-08,91.9,91.9,4.6,1
+245,EMP-0542,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,39.8,39.8,2021-10-30,68.3,68.3,3.6,0
+246,EMP-0312,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,28.9,28.9,2023-06-18,80.7,80.7,3.9,1
+247,EMP-0532,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.3,35.3,2022-03-05,83.6,83.6,5.0,1
+248,EMP-0237,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.3,50.3,2025-05-12,82.7,82.7,3.4,1
+249,EMP-0195,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.1,24.1,2023-10-30,90.4,90.4,4.4,1
+250,EMP-0184,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.8,43.8,2025-09-11,78.4,78.4,4.2,0
+251,EMP-0109,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.4,18.4,2025-01-20,76.1,76.1,3.1,0
+252,EMP-0470,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.9,8.9,2022-03-17,84.4,84.4,4.6,1
+253,EMP-0171,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.3,32.3,2025-07-17,92.1,92.1,4.2,1
+254,EMP-0517,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,12.5,12.5,2022-10-24,77.5,77.5,4.4,0
+255,EMP-0547,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.9,18.9,2026-01-03,75.9,75.9,3.4,0
+256,EMP-0361,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,12.4,12.4,2024-09-05,78.2,78.2,3.9,0
+257,EMP-0381,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.1,8.1,2025-11-13,96.8,96.8,4.5,1
+258,EMP-0332,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,28.8,28.8,2023-09-27,66.8,66.8,4.4,0
+259,EMP-0559,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.3,22.3,2025-03-31,82.2,82.2,5.0,1
+260,EMP-0564,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,23.0,23.0,2025-01-28,76.6,76.6,3.8,0
+261,EMP-0464,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.7,25.7,2025-06-29,61.9,61.9,4.8,0
+262,EMP-0001,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,45.3,45.3,2024-03-25,87.5,87.5,3.5,1
+263,EMP-0017,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.1,49.1,2022-07-22,90.2,90.2,4.4,1
+264,EMP-0310,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,39.8,39.8,2024-05-29,95.4,95.4,3.8,1
+265,EMP-0228,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,23.3,23.3,2024-07-27,87.9,87.9,4.4,1
+266,EMP-0023,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.2,32.2,2026-10-10,87.1,87.1,4.5,1
+267,EMP-0570,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.5,18.5,2022-10-10,75.4,75.4,4.3,0
+268,EMP-0097,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,46.0,46.0,2026-03-15,81.8,81.8,4.5,1
+269,EMP-0365,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.4,32.4,2022-08-04,100.0,100.0,4.1,1
+270,EMP-0272,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.4,18.4,2023-11-04,75.2,75.2,3.6,0
+271,EMP-0239,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.0,30.0,2024-05-29,93.2,93.2,4.5,1
+272,EMP-0095,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,11.7,11.7,2025-07-10,89.0,89.0,3.4,1
+273,EMP-0223,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,39.4,39.4,2024-09-05,87.2,87.2,4.1,1
+274,EMP-0495,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.9,34.9,2026-07-07,79.5,79.5,4.3,0
+275,EMP-0098,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,14.2,14.2,2024-05-29,79.6,79.6,4.7,0
+276,EMP-0039,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,14.7,14.7,2025-04-26,89.8,89.8,3.2,1
+277,EMP-0081,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,35.2,35.2,2024-10-15,79.0,79.0,4.3,0
+278,EMP-0357,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.7,9.7,2025-09-17,76.3,76.3,4.8,0
+279,EMP-0124,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,28.8,28.8,2021-03-02,78.0,78.0,4.0,0
+280,EMP-0392,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.9,38.9,2024-06-16,100.0,100.0,4.2,1
+281,EMP-0537,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,46.3,46.3,2024-08-14,89.0,89.0,4.1,1
+282,EMP-0553,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.4,17.4,2022-09-19,89.4,89.4,3.8,1
+283,EMP-0335,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.5,46.5,2023-07-08,88.3,88.3,4.1,1
+284,EMP-0157,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.4,38.4,2025-06-12,79.1,79.1,3.9,0
+285,EMP-0457,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,21.8,21.8,2026-09-13,82.3,82.3,3.5,1
+286,EMP-0093,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.1,22.1,2025-11-19,78.5,78.5,4.0,0
+287,EMP-0297,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.4,14.4,2022-09-13,75.3,75.3,5.0,0
+288,EMP-0136,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.5,21.5,2021-12-19,95.1,95.1,3.7,1
+289,EMP-0488,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,11.9,11.9,2021-08-04,78.8,78.8,4.3,0
+290,EMP-0562,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.4,11.4,2023-12-26,77.0,77.0,3.3,0
+291,EMP-0088,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.3,9.3,2026-09-01,79.7,79.7,4.0,0
+292,EMP-0445,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.0,30.0,2022-07-21,74.4,74.4,5.0,0
+293,EMP-0493,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.8,50.8,2023-04-06,91.1,91.1,4.3,1
+294,EMP-0500,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2023-03-29,89.0,89.0,4.9,1
+295,EMP-0575,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,26.0,26.0,2023-10-20,87.9,87.9,4.2,1
+296,EMP-0249,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.0,36.0,2024-01-10,86.9,86.9,3.4,1
+297,EMP-0441,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.6,18.6,2022-01-16,77.4,77.4,5.0,0
+298,EMP-0116,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.8,10.8,2025-10-15,83.8,83.8,4.3,1
+299,EMP-0375,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.2,13.2,2023-03-06,86.3,86.3,4.4,1
+300,EMP-0329,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,20.1,20.1,2021-04-24,88.8,88.8,4.3,1
+301,EMP-0313,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,28.7,28.7,2024-12-17,74.5,74.5,5.0,0
+302,EMP-0453,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.3,20.3,2022-09-04,100.0,100.0,3.8,1
+303,EMP-0452,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,48.8,48.8,2023-08-29,73.0,73.0,4.0,0
+304,EMP-0205,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.8,17.8,2022-10-15,91.5,91.5,4.5,1
+305,EMP-0088,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,28.3,28.3,2021-08-26,76.6,76.6,3.6,0
+306,EMP-0249,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,14.5,14.5,2022-09-11,81.8,81.8,3.1,1
+307,EMP-0295,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.0,44.0,2024-11-21,89.1,89.1,5.0,1
+308,EMP-0114,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,25.7,25.7,2026-02-01,72.8,72.8,4.7,0
+309,EMP-0483,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.5,44.5,2024-10-05,94.8,94.8,4.8,1
+310,EMP-0215,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.9,48.9,2023-06-01,77.6,77.6,4.6,0
+311,EMP-0209,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.2,46.2,2023-12-10,83.0,83.0,4.0,1
+312,EMP-0562,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.1,29.1,2022-08-16,93.8,93.8,4.0,1
+313,EMP-0019,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.0,10.0,2021-07-12,81.0,81.0,3.6,1
+314,EMP-0262,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.7,34.7,2021-09-18,83.1,83.1,4.2,1
+315,EMP-0291,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.3,25.3,2024-01-31,68.0,68.0,4.9,0
+316,EMP-0055,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.9,25.9,2021-02-18,78.4,78.4,4.6,0
+317,EMP-0069,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.4,14.4,2024-01-31,100.0,100.0,3.7,1
+318,EMP-0369,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.2,32.2,2021-04-03,70.6,70.6,4.3,0
+319,EMP-0300,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.9,10.9,2023-08-19,75.4,75.4,4.2,0
+320,EMP-0390,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.9,43.9,2022-02-26,96.7,96.7,3.9,1
+321,EMP-0324,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.7,25.7,2022-01-10,59.3,59.3,3.4,0
+322,EMP-0191,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.6,21.6,2026-08-27,79.1,79.1,4.6,0
+323,EMP-0469,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,42.0,42.0,2021-04-13,86.3,86.3,4.5,1
+324,EMP-0041,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.7,26.7,2024-06-16,,,3.6,1
+325,EMP-0342,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.2,30.2,2025-06-14,98.8,98.8,4.9,1
+326,EMP-0161,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,47.6,47.6,2024-12-05,84.3,84.3,3.9,1
+327,EMP-0361,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,8.0,8.0,2024-06-06,70.2,70.2,3.9,0
+328,EMP-0242,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.6,46.6,2024-02-18,74.5,74.5,4.4,0
+329,EMP-0064,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.8,30.8,2025-05-19,82.4,82.4,4.6,1
+330,EMP-0031,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.1,46.1,2024-03-07,92.4,92.4,3.6,1
+331,EMP-0231,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.8,30.8,2024-11-14,85.0,85.0,3.2,1
+332,EMP-0403,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.0,30.0,2022-01-09,88.8,88.8,4.0,1
+333,EMP-0392,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,40.7,40.7,2023-08-04,73.6,73.6,3.5,0
+334,EMP-0428,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.0,26.0,2022-10-02,83.1,83.1,3.4,1
+335,EMP-0437,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,23.4,23.4,2024-09-24,75.1,75.1,4.2,0
+336,EMP-0460,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,45.3,45.3,2022-07-08,85.3,85.3,4.4,1
+337,EMP-0212,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.1,34.1,2023-04-23,68.6,68.6,4.1,0
+338,EMP-0142,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.3,34.3,2022-07-22,75.6,75.6,3.8,0
+339,EMP-0441,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.0,30.0,2022-10-24,77.1,77.1,4.3,0
+340,EMP-0326,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.7,33.7,2022-05-14,62.8,62.8,4.8,0
+341,EMP-0189,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.0,18.0,2022-09-03,83.4,83.4,4.2,1
+342,EMP-0031,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.7,14.7,2025-09-06,74.4,74.4,3.3,0
+343,EMP-0422,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,36.5,36.5,2026-01-03,82.2,82.2,3.4,1
+344,EMP-0281,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,27.9,27.9,2023-02-23,84.9,84.9,4.3,1
+345,EMP-0110,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.0,29.0,2023-02-10,71.8,71.8,3.9,0
+346,EMP-0027,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,12.3,12.3,2024-01-13,77.5,77.5,4.0,0
+347,EMP-0237,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,26.1,26.1,2023-08-24,77.7,77.7,4.3,0
+348,EMP-0237,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,46.4,46.4,2025-01-25,71.9,71.9,3.9,0
+349,EMP-0082,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.8,25.8,2022-07-18,66.1,66.1,4.1,0
+350,EMP-0515,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,24.7,24.7,2026-04-19,90.0,90.0,4.8,1
+351,EMP-0383,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.5,29.5,2025-05-21,71.3,71.3,5.0,0
+352,EMP-0504,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.9,28.9,2022-08-01,66.7,66.7,5.0,0
+353,EMP-0168,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,23.6,23.6,2023-07-30,55.0,55.0,4.9,0
+354,EMP-0034,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2021-03-17,84.7,84.7,4.6,1
+355,EMP-0277,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.7,14.7,2023-07-15,96.8,96.8,4.7,1
+356,EMP-0208,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,31.4,31.4,2021-10-12,81.1,81.1,4.0,1
+357,EMP-0182,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.6,26.6,2026-07-14,95.0,95.0,3.9,1
+358,EMP-0333,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.4,31.4,2023-10-22,73.8,73.8,3.8,0
+359,EMP-0438,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,16.7,16.7,2021-07-05,86.1,86.1,3.1,1
+360,EMP-0390,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,12.6,12.6,2025-06-17,57.6,57.6,4.0,0
+361,EMP-0550,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.9,46.9,2021-06-21,77.5,77.5,4.8,0
+362,EMP-0534,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.7,37.7,2026-02-07,100.0,100.0,4.5,1
+363,EMP-0468,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.2,42.2,2023-10-18,84.6,84.6,4.1,1
+364,EMP-0532,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,45.4,45.4,2025-06-23,79.8,79.8,4.1,0
+365,EMP-0041,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.6,47.6,2025-05-20,88.0,88.0,4.4,1
+366,EMP-0529,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.9,37.9,2023-03-03,75.0,75.0,4.3,0
+367,EMP-0299,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.3,24.3,2025-07-03,77.9,77.9,3.9,0
+368,EMP-0312,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,39.7,39.7,2026-03-19,69.9,69.9,3.8,0
+369,EMP-0171,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.8,9.8,2024-05-04,77.7,77.7,4.7,0
+370,EMP-0056,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.0,47.0,2022-08-20,69.4,69.4,4.9,0
+371,EMP-0475,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.1,29.1,2022-01-20,86.0,86.0,4.5,1
+372,EMP-0513,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.1,31.1,2023-01-21,81.9,81.9,4.6,1
+373,EMP-0560,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.4,29.4,2025-06-13,84.9,84.9,4.5,1
+374,EMP-0424,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,10.2,10.2,2026-02-04,72.2,72.2,3.1,0
+375,EMP-0026,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.9,32.9,2026-02-16,99.9,99.9,3.9,1
+376,EMP-0207,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.2,27.2,2022-01-19,91.6,91.6,4.3,1
+377,EMP-0257,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,12.1,12.1,2022-11-17,96.5,96.5,4.3,1
+378,EMP-0127,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.1,35.1,2022-04-27,80.6,80.6,4.5,1
+379,EMP-0461,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.5,13.5,2021-12-30,96.9,96.9,4.8,1
+380,EMP-0537,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.0,12.0,2026-10-11,82.6,82.6,3.8,1
+381,EMP-0164,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.5,9.5,2025-04-22,71.2,71.2,4.1,0
+382,EMP-0045,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.2,32.2,2024-10-18,66.9,66.9,4.5,0
+383,EMP-0154,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,28.5,28.5,2022-08-30,85.9,85.9,4.6,1
+384,EMP-0184,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,45.2,45.2,2025-09-29,92.4,92.4,5.0,1
+385,EMP-0316,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.3,33.3,2026-01-16,83.6,83.6,4.0,1
+386,EMP-0296,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.5,31.5,2022-05-11,97.5,97.5,4.1,1
+387,EMP-0135,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.0,24.0,2021-01-29,96.0,96.0,4.1,1
+388,EMP-0260,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.8,36.8,2026-03-08,92.8,92.8,3.8,1
+389,EMP-0510,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.6,29.6,2021-02-07,84.2,84.2,4.4,1
+390,EMP-0506,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,14.3,14.3,2023-06-22,89.4,89.4,4.2,1
+391,EMP-0488,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.5,30.5,2025-08-21,86.8,86.8,4.4,1
+392,EMP-0453,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.4,34.4,2021-02-10,78.3,78.3,4.2,0
+393,EMP-0251,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.7,48.7,2024-02-28,78.0,78.0,4.7,0
+394,EMP-0571,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.7,22.7,2021-08-03,72.7,72.7,4.5,0
+395,EMP-0190,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,39.5,39.5,2021-08-28,70.9,70.9,4.1,0
+396,EMP-0358,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.3,44.3,2022-09-02,87.4,87.4,4.5,1
+397,EMP-0034,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.1,20.1,2024-05-21,56.7,56.7,4.3,0
+398,EMP-0340,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.5,37.5,2021-08-03,92.7,92.7,3.8,1
+399,EMP-0112,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,18.7,18.7,2023-01-15,79.1,79.1,4.0,0
+400,EMP-0166,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,27.1,27.1,2023-01-11,91.9,91.9,3.7,1
+401,EMP-0467,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.5,22.5,2025-01-29,74.3,74.3,4.2,0
+402,EMP-0037,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,29.9,29.9,2024-05-24,89.5,89.5,4.1,1
+403,EMP-0331,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.2,18.2,2025-04-16,80.3,80.3,4.5,1
+404,EMP-0070,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.8,11.8,2021-10-07,89.0,89.0,4.5,1
+405,EMP-0300,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.8,28.8,2022-07-20,73.4,73.4,4.0,0
+406,EMP-0125,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.9,26.9,2024-09-24,95.6,95.6,4.6,1
+407,EMP-0540,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.2,12.2,2023-05-24,76.7,76.7,3.8,0
+408,EMP-0215,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.5,20.5,2021-09-10,99.5,99.5,4.2,1
+409,EMP-0112,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,24.8,24.8,2022-01-09,84.6,84.6,4.5,1
+410,EMP-0496,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.1,18.1,2024-04-05,80.1,80.1,3.8,1
+411,EMP-0438,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,21.2,21.2,2024-08-03,79.7,79.7,4.4,0
+412,EMP-0266,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.1,44.1,2025-01-03,86.3,86.3,4.3,1
+413,EMP-0133,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.5,20.5,2026-08-10,85.7,85.7,4.1,1
+414,EMP-0533,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,43.2,43.2,2026-07-25,,,4.3,1
+415,EMP-0185,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.0,23.0,2023-08-26,77.0,77.0,3.9,0
+416,EMP-0298,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.2,27.2,2021-01-21,90.4,90.4,4.8,1
+417,EMP-0122,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,34.3,34.3,2026-04-03,80.8,80.8,4.4,1
+418,EMP-0121,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.9,26.9,2025-09-09,87.0,87.0,3.8,1
+419,EMP-0424,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.1,42.1,2024-10-13,85.1,85.1,4.4,1
+420,EMP-0359,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.6,43.6,2023-06-03,73.1,73.1,5.0,0
+421,EMP-0012,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.9,27.9,2024-03-13,81.4,81.4,4.2,1
+422,EMP-0261,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,44.9,44.9,2024-06-28,82.4,82.4,4.1,1
+423,EMP-0308,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.8,44.8,2024-09-02,79.8,79.8,3.4,0
+424,EMP-0007,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.1,38.1,2024-10-11,94.0,94.0,4.8,1
+425,EMP-0350,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.2,9.2,2021-05-14,,,4.4,0
+426,EMP-0180,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,29.3,29.3,2024-09-29,66.8,66.8,4.0,0
+427,EMP-0347,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.4,29.4,2026-05-12,74.0,74.0,3.3,0
+428,EMP-0037,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.0,29.0,2026-06-10,76.6,76.6,3.3,0
+429,EMP-0160,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,32.3,32.3,2024-10-18,96.8,96.8,4.2,1
+430,EMP-0474,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.9,14.9,2021-09-01,67.9,67.9,4.1,0
+431,EMP-0534,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,27.7,27.7,2024-07-30,85.9,85.9,2.9,1
+432,EMP-0569,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.8,46.8,2021-04-01,88.0,88.0,4.3,1
+433,EMP-0214,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.1,23.1,2024-10-04,76.3,76.3,2.8,0
+434,EMP-0363,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,40.4,40.4,2022-09-18,89.2,89.2,5.0,1
+435,EMP-0288,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,40.3,40.3,2024-11-04,86.0,86.0,5.0,1
+436,EMP-0385,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,40.6,40.6,2022-11-25,86.2,86.2,4.8,1
+437,EMP-0399,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.9,32.9,2022-05-08,82.6,82.6,3.5,1
+438,EMP-0316,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.9,21.9,2021-05-24,92.2,92.2,4.8,1
+439,EMP-0279,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.9,11.9,2022-01-05,79.0,79.0,4.2,0
+440,EMP-0509,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,30.8,30.8,2025-03-17,,,4.9,0
+441,EMP-0463,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,29.4,29.4,2023-06-19,73.9,73.9,3.2,0
+442,EMP-0538,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.3,32.3,2023-01-01,89.3,89.3,3.6,1
+443,EMP-0115,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.9,21.9,2021-06-17,,,4.6,0
+444,EMP-0207,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,39.0,39.0,2026-01-06,92.2,92.2,3.2,1
+445,EMP-0519,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.3,44.3,2026-06-14,80.6,80.6,4.0,1
+446,EMP-0513,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,35.3,35.3,2023-03-05,91.1,91.1,3.2,1
+447,EMP-0349,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,22.8,22.8,2024-07-09,93.4,93.4,4.4,1
+448,EMP-0336,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.7,32.7,2022-02-21,72.6,72.6,4.4,0
+449,EMP-0529,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.9,36.9,2023-05-05,100.0,100.0,4.0,1
+450,EMP-0038,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.5,31.5,2025-05-21,99.6,99.6,3.5,1
+451,EMP-0535,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,43.2,43.2,2021-01-31,83.9,83.9,4.2,1
+452,EMP-0319,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.8,37.8,2022-01-06,78.5,78.5,3.8,0
+453,EMP-0342,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.2,24.2,2021-07-22,86.3,86.3,4.8,1
+454,EMP-0106,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.8,43.8,2024-07-17,75.4,75.4,4.3,0
+455,EMP-0024,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,15.5,15.5,2024-07-16,84.3,84.3,4.1,1
+456,EMP-0215,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,9.4,9.4,2023-04-16,86.5,86.5,3.9,1
+457,EMP-0198,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.1,34.1,2024-02-22,80.1,80.1,3.8,1
+458,EMP-0546,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.9,15.9,2025-12-26,93.8,93.8,5.0,1
+459,EMP-0121,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.4,32.4,2022-09-18,76.4,76.4,4.2,0
+460,EMP-0162,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,29.6,29.6,2022-04-28,80.6,80.6,4.1,1
+461,EMP-0016,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,16.1,16.1,2026-10-21,91.3,91.3,4.6,1
+462,EMP-0105,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.1,24.1,2024-12-19,94.0,94.0,4.5,1
+463,EMP-0563,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,11.5,11.5,2024-01-30,78.6,78.6,4.9,0
+464,EMP-0145,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.6,28.6,2023-10-14,75.4,75.4,4.6,0
+465,EMP-0176,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.9,34.9,2024-07-13,87.3,87.3,4.2,1
+466,EMP-0347,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.8,44.8,2026-01-06,75.4,75.4,3.4,0
+467,EMP-0052,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,27.6,27.6,2021-05-13,88.0,88.0,4.8,1
+468,EMP-0483,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.6,37.6,2022-03-24,68.9,68.9,4.8,0
+469,EMP-0393,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.7,44.7,2022-01-02,88.9,88.9,3.5,1
+470,EMP-0437,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.1,14.1,2023-01-18,87.2,87.2,4.7,1
+471,EMP-0457,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.6,20.6,2025-01-10,74.9,74.9,4.0,0
+472,EMP-0320,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,20.7,20.7,2023-04-06,85.6,85.6,3.5,1
+473,EMP-0547,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,42.8,42.8,2026-04-06,93.0,93.0,5.0,1
+474,EMP-0135,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,40.5,40.5,2026-04-17,73.2,73.2,4.4,0
+475,EMP-0100,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.4,30.4,2024-07-09,69.2,69.2,3.6,0
+476,EMP-0477,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.0,31.0,2023-08-22,89.8,89.8,5.0,1
+477,EMP-0230,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.0,31.0,2023-12-07,66.0,66.0,4.1,0
+478,EMP-0373,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,15.4,15.4,2023-02-05,78.5,78.5,4.3,0
+479,EMP-0339,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.4,13.4,2026-02-14,93.3,93.3,4.6,1
+480,EMP-0500,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.7,36.7,2021-10-09,77.0,77.0,3.9,0
+481,EMP-0487,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,28.6,28.6,2024-12-24,74.8,74.8,3.3,0
+482,EMP-0491,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.7,31.7,2022-12-15,91.6,91.6,4.1,1
+483,EMP-0290,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,16.8,16.8,2022-06-20,92.2,92.2,4.6,1
+484,EMP-0521,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,44.0,44.0,2025-08-03,84.5,84.5,4.9,1
+485,EMP-0110,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,16.4,16.4,2021-11-01,80.9,80.9,4.5,1
+486,EMP-0310,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.2,50.2,2026-03-18,76.2,76.2,3.8,0
+487,EMP-0411,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.3,20.3,2025-09-04,64.0,64.0,4.0,0
+488,EMP-0245,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,16.1,16.1,2023-10-10,76.5,76.5,3.8,0
+489,EMP-0562,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,35.1,35.1,2026-06-13,86.2,86.2,4.2,1
+490,EMP-0394,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.5,34.5,2024-11-10,91.8,91.8,4.7,1
+491,EMP-0214,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.6,19.6,2025-11-15,94.9,94.9,4.1,1
+492,EMP-0446,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.8,20.8,2024-11-16,76.5,76.5,4.0,0
+493,EMP-0558,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.5,21.5,2022-12-24,88.5,88.5,4.4,1
+494,EMP-0080,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,15.8,15.8,2026-07-01,87.4,87.4,5.0,1
+495,EMP-0118,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.4,17.4,2026-03-26,75.2,75.2,4.2,0
+496,EMP-0334,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,53.5,53.5,2022-02-18,77.8,77.8,5.0,0
+497,EMP-0456,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,27.8,27.8,2024-06-29,83.8,83.8,3.3,1
+498,EMP-0416,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.3,32.3,2022-04-05,80.0,80.0,4.3,1
+499,EMP-0389,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.0,21.0,2026-08-01,75.4,75.4,4.4,0
+500,EMP-0063,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,30.6,30.6,2023-06-25,91.6,91.6,4.9,1
+501,EMP-0143,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,24.2,24.2,2021-01-15,91.8,91.8,4.2,1
+502,EMP-0151,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,33.1,33.1,2026-02-13,81.1,81.1,4.2,1
+503,EMP-0545,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,27.0,27.0,2025-05-31,84.7,84.7,4.4,1
+504,EMP-0458,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.9,27.9,2023-05-07,85.7,85.7,4.6,1
+505,EMP-0325,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,27.0,27.0,2024-06-15,95.5,95.5,4.1,1
+506,EMP-0446,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,8.0,8.0,2022-01-15,78.3,78.3,4.5,0
+507,EMP-0009,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.3,20.3,2026-10-06,63.6,63.6,4.3,0
+508,EMP-0414,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.5,32.5,2024-05-03,72.8,72.8,4.5,0
+509,EMP-0064,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.5,15.5,2021-08-20,63.5,63.5,4.5,0
+510,EMP-0001,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.7,48.7,2025-01-25,96.4,96.4,3.8,1
+511,EMP-0113,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,29.1,29.1,2021-05-22,92.1,92.1,3.7,1
+512,EMP-0241,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,16.1,16.1,2025-06-17,92.0,92.0,4.4,1
+513,EMP-0326,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.3,11.3,2025-08-05,,,3.8,0
+514,EMP-0391,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.2,13.2,2023-05-30,55.0,55.0,3.9,0
+515,EMP-0178,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.2,25.2,2022-08-07,72.6,72.6,4.3,0
+516,EMP-0193,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,42.1,42.1,2025-05-09,93.4,93.4,4.7,1
+517,EMP-0369,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,17.4,17.4,2022-10-08,77.0,77.0,4.3,0
+518,EMP-0296,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,35.3,35.3,2022-07-19,80.8,80.8,3.9,1
+519,EMP-0012,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.5,36.5,2021-03-20,80.1,80.1,3.7,1
+520,EMP-0148,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,18.5,18.5,2025-12-08,73.2,73.2,3.0,0
+521,EMP-0140,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.5,32.5,2022-07-31,95.5,95.5,3.3,1
+522,EMP-0426,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.8,29.8,2025-10-24,93.6,93.6,3.4,1
+523,EMP-0185,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,35.2,35.2,2026-10-02,81.3,81.3,4.9,1
+524,EMP-0435,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.1,49.1,2026-02-01,77.6,77.6,2.7,0
+525,EMP-0394,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,11.5,11.5,2023-07-28,88.5,88.5,5.0,1
+526,EMP-0191,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2021-02-14,81.4,81.4,4.0,1
+527,EMP-0511,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.7,25.7,2026-09-01,82.8,82.8,4.0,1
+528,EMP-0276,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,14.6,14.6,2025-02-26,75.4,75.4,4.2,0
+529,EMP-0035,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,43.1,43.1,2026-06-17,,,4.0,0
+530,EMP-0378,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.8,33.8,2026-06-10,86.3,86.3,4.4,1
+531,EMP-0082,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.9,29.9,2024-03-04,85.2,85.2,2.8,1
+532,EMP-0477,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,51.3,51.3,2021-12-01,90.5,90.5,3.9,1
+533,EMP-0536,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.2,17.2,2022-01-12,81.5,81.5,3.7,1
+534,EMP-0252,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.0,25.0,2021-11-30,84.9,84.9,4.6,1
+535,EMP-0553,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,21.3,21.3,2024-07-17,100.0,100.0,4.8,1
+536,EMP-0055,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.9,18.9,2021-02-28,88.6,88.6,4.2,1
+537,EMP-0481,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.0,30.0,2026-10-15,83.9,83.9,4.7,1
+538,EMP-0481,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.9,18.9,2024-10-03,78.8,78.8,4.8,0
+539,EMP-0432,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.2,14.2,2024-05-05,73.0,73.0,3.8,0
+540,EMP-0297,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,35.0,35.0,2021-06-08,100.0,100.0,3.8,1
+541,EMP-0312,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.6,22.6,2023-12-17,,,4.8,1
+542,EMP-0063,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.5,30.5,2022-12-08,93.3,93.3,4.3,1
+543,EMP-0053,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.7,26.7,2021-05-06,75.5,75.5,4.3,0
+544,EMP-0294,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.9,29.9,2021-12-18,78.3,78.3,5.0,0
+545,EMP-0130,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,51.8,51.8,2021-11-25,62.2,62.2,4.1,0
+546,EMP-0285,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,25.9,25.9,2022-07-11,100.0,100.0,3.1,1
+547,EMP-0288,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,31.7,31.7,2023-12-03,83.2,83.2,4.6,1
+548,EMP-0015,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.3,37.3,2022-12-31,100.0,100.0,4.7,1
+549,EMP-0155,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,20.6,20.6,2025-03-09,95.3,95.3,4.3,1
+550,EMP-0180,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,35.6,35.6,2023-09-09,79.0,79.0,3.7,0
+551,EMP-0497,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,27.0,27.0,2021-05-30,92.1,92.1,4.6,1
+552,EMP-0352,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.6,33.6,2022-09-01,56.6,56.6,4.7,0
+553,EMP-0158,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,19.8,19.8,2025-09-02,100.0,100.0,3.5,1
+554,EMP-0393,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.1,24.1,2025-12-22,84.2,84.2,4.4,1
+555,EMP-0172,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.3,25.3,2024-11-28,83.2,83.2,4.0,1
+556,EMP-0056,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,29.1,29.1,2022-05-05,75.8,75.8,4.3,0
+557,EMP-0054,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,25.0,25.0,2026-03-30,85.0,85.0,4.2,1
+558,EMP-0409,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.4,31.4,2024-06-02,79.1,79.1,4.5,0
+559,EMP-0488,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.2,50.2,2023-08-30,80.7,80.7,4.4,1
+560,EMP-0389,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2026-05-12,94.7,94.7,3.9,1
+561,EMP-0269,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.3,31.3,2025-11-30,,,3.8,0
+562,EMP-0013,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,36.6,36.6,2026-01-27,83.3,83.3,4.1,1
+563,EMP-0392,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.8,14.8,2021-07-02,82.0,82.0,4.6,1
+564,EMP-0100,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.8,48.8,2025-01-03,84.0,84.0,3.7,1
+565,EMP-0443,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.8,18.8,2024-02-05,83.5,83.5,4.2,1
+566,EMP-0344,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.3,28.3,2024-01-13,77.2,77.2,4.4,0
+567,EMP-0101,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,31.8,31.8,2025-06-05,91.4,91.4,4.3,1
+568,EMP-0473,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,15.7,15.7,2023-03-24,100.0,100.0,4.2,1
+569,EMP-0533,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.4,14.4,2023-01-21,81.4,81.4,4.0,1
+570,EMP-0321,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.7,44.7,2021-02-27,87.8,87.8,4.1,1
+571,EMP-0009,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.6,35.6,2021-03-04,58.2,58.2,4.1,0
+572,EMP-0422,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.7,31.7,2022-03-16,77.0,77.0,4.3,0
+573,EMP-0457,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.5,13.5,2023-07-02,77.5,77.5,4.2,0
+574,EMP-0291,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.0,28.0,2023-03-16,72.0,72.0,3.3,0
+575,EMP-0035,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.3,41.3,2022-01-26,77.1,77.1,3.4,0
+576,EMP-0059,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,25.0,25.0,2023-06-22,85.2,85.2,3.6,1
+577,EMP-0125,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.2,33.2,2022-01-03,91.9,91.9,4.1,1
+578,EMP-0134,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.3,10.3,2023-02-10,89.1,89.1,4.1,1
+579,EMP-0114,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.9,36.9,2023-11-18,78.1,78.1,3.9,0
+580,EMP-0302,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.1,28.1,2021-11-21,91.2,91.2,4.3,1
+581,EMP-0465,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.4,30.4,2025-10-29,74.3,74.3,3.7,0
+582,EMP-0332,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.9,33.9,2022-11-09,92.2,92.2,4.7,1
+583,EMP-0076,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.2,33.2,2021-09-27,86.2,86.2,4.4,1
+584,EMP-0392,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.5,12.5,2024-10-08,87.3,87.3,4.2,1
+585,EMP-0062,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.2,32.2,2024-01-04,90.7,90.7,3.6,1
+586,EMP-0183,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,32.4,32.4,2021-10-26,81.5,81.5,4.9,1
+587,EMP-0504,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,29.1,29.1,2025-06-11,72.2,72.2,4.2,0
+588,EMP-0183,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,20.5,20.5,2022-04-04,78.3,78.3,4.4,0
+589,EMP-0148,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,51.4,51.4,2025-11-16,82.7,82.7,4.4,1
+590,EMP-0224,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.2,17.2,2022-03-26,81.8,81.8,3.9,1
+591,EMP-0453,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,31.1,31.1,2022-03-14,95.2,95.2,4.2,1
+592,EMP-0036,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,30.5,30.5,2021-10-30,83.9,83.9,4.6,1
+593,EMP-0257,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.3,24.3,2021-04-01,93.8,93.8,3.9,1
+594,EMP-0510,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.0,29.0,2021-01-18,65.1,65.1,4.3,0
+595,EMP-0039,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,19.3,19.3,2024-01-11,85.5,85.5,3.8,1
+596,EMP-0156,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.1,18.1,2025-06-05,89.6,89.6,4.8,1
+597,EMP-0004,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.1,43.1,2026-07-17,,,4.3,1
+598,EMP-0490,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,19.0,19.0,2025-07-27,83.5,83.5,4.5,1
+599,EMP-0072,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.2,44.2,2023-07-29,91.4,91.4,3.7,1
+600,EMP-0004,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.1,13.1,2026-06-12,77.9,77.9,4.2,0
+601,EMP-0125,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,24.3,24.3,2025-01-24,78.6,78.6,4.8,0
+602,EMP-0342,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.4,28.4,2025-07-13,83.2,83.2,5.0,1
+603,EMP-0057,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.5,36.5,2025-02-19,81.3,81.3,4.3,1
+604,EMP-0548,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.7,14.7,2021-12-10,72.5,72.5,5.0,0
+605,EMP-0471,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.4,28.4,2023-04-26,67.5,67.5,4.1,0
+606,EMP-0181,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.4,49.4,2021-06-25,80.0,80.0,4.2,1
+607,EMP-0394,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,23.3,23.3,2024-05-23,86.0,86.0,4.6,1
+608,EMP-0400,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.2,35.2,2025-01-25,100.0,100.0,4.7,1
+609,EMP-0499,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.0,36.0,2025-12-13,69.5,69.5,4.3,0
+610,EMP-0195,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,35.3,35.3,2021-06-10,89.8,89.8,3.3,1
+611,EMP-0198,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,40.5,40.5,2023-09-18,77.4,77.4,4.9,0
+612,EMP-0501,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.5,12.5,2021-09-30,60.3,60.3,4.4,0
+613,EMP-0554,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,22.2,22.2,2026-08-23,86.3,86.3,5.0,1
+614,EMP-0547,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,33.4,33.4,2021-03-23,84.5,84.5,3.9,1
+615,EMP-0038,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,21.1,21.1,2021-09-01,88.0,88.0,4.1,1
+616,EMP-0346,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.8,37.8,2025-08-02,73.4,73.4,4.4,0
+617,EMP-0122,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.3,22.3,2026-03-07,83.6,83.6,4.7,1
+618,EMP-0550,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.2,30.2,2023-08-27,88.1,88.1,4.8,1
+619,EMP-0074,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.6,41.6,2022-08-17,88.6,88.6,4.4,1
+620,EMP-0501,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,40.1,40.1,2026-04-29,90.0,90.0,5.0,1
+621,EMP-0047,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.4,27.4,2022-07-03,80.2,80.2,4.1,1
+622,EMP-0015,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.5,31.5,2021-08-07,91.0,91.0,3.9,1
+623,EMP-0315,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.9,31.9,2026-02-26,86.5,86.5,4.2,1
+624,EMP-0175,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,25.9,25.9,2021-10-03,60.6,60.6,4.3,0
+625,EMP-0109,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.4,34.4,2026-08-13,89.7,89.7,4.1,1
+626,EMP-0226,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.7,33.7,2023-04-25,,,4.8,1
+627,EMP-0437,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.6,15.6,2025-07-19,,,4.8,1
+628,EMP-0333,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,40.6,40.6,2022-07-31,91.8,91.8,4.0,1
+629,EMP-0330,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.4,21.4,2021-07-20,97.5,97.5,4.5,1
+630,EMP-0178,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.0,13.0,2021-09-30,81.0,81.0,4.2,1
+631,EMP-0124,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,29.6,29.6,2022-08-16,79.2,79.2,4.8,0
+632,EMP-0426,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.1,34.1,2025-03-10,100.0,100.0,4.8,1
+633,EMP-0567,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.5,32.5,2025-12-16,95.5,95.5,4.4,1
+634,EMP-0250,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,29.7,29.7,2021-06-30,79.0,79.0,4.4,0
+635,EMP-0137,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.6,33.6,2025-04-04,78.4,78.4,4.0,0
+636,EMP-0162,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.9,44.9,2026-07-02,84.0,84.0,3.0,1
+637,EMP-0083,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,40.4,40.4,2021-02-13,72.7,72.7,4.0,0
+638,EMP-0184,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,40.6,40.6,2024-03-22,69.2,69.2,3.6,0
+639,EMP-0427,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,21.4,21.4,2022-06-18,78.3,78.3,3.4,0
+640,EMP-0212,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,25.6,25.6,2024-01-29,79.8,79.8,4.4,0
+641,EMP-0536,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.4,24.4,2025-08-29,85.4,85.4,4.3,1
+642,EMP-0245,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.2,34.2,2021-06-18,72.1,72.1,5.0,0
+643,EMP-0185,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.4,23.4,2022-01-10,76.1,76.1,4.5,0
+644,EMP-0309,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,16.5,16.5,2025-09-26,90.0,90.0,4.0,1
+645,EMP-0005,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.1,43.1,2023-09-07,67.5,67.5,5.0,0
+646,EMP-0197,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.8,34.8,2022-02-10,80.4,80.4,5.0,1
+647,EMP-0371,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.0,46.0,2026-09-24,82.2,82.2,3.7,1
+648,EMP-0225,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,22.8,22.8,2023-05-17,100.0,100.0,5.0,1
+649,EMP-0284,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,44.1,44.1,2023-03-19,91.4,91.4,4.6,1
+650,EMP-0116,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.0,29.0,2026-05-12,84.8,84.8,3.9,1
+651,EMP-0510,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,21.6,21.6,2022-10-31,92.6,92.6,4.5,1
+652,EMP-0045,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,34.7,34.7,2025-02-14,78.6,78.6,4.7,0
+653,EMP-0292,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.5,24.5,2025-11-30,65.9,65.9,3.6,0
+654,EMP-0258,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,23.4,23.4,2026-02-14,82.6,82.6,4.7,1
+655,EMP-0045,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,43.4,43.4,2021-08-17,77.6,77.6,4.4,0
+656,EMP-0551,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,24.1,24.1,2022-10-24,76.2,76.2,4.5,0
+657,EMP-0030,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.2,27.2,2026-10-25,86.3,86.3,4.7,1
+658,EMP-0119,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.2,38.2,2023-09-05,85.1,85.1,4.3,1
+659,EMP-0456,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.7,17.7,2024-09-11,73.2,73.2,4.9,0
+660,EMP-0430,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.2,27.2,2024-09-10,74.5,74.5,4.2,0
+661,EMP-0236,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,30.4,30.4,2024-09-11,77.5,77.5,4.5,0
+662,EMP-0234,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.0,37.0,2023-09-13,83.1,83.1,3.8,1
+663,EMP-0423,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,19.7,19.7,2025-04-02,91.0,91.0,5.0,1
+664,EMP-0226,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.2,38.2,2026-04-28,80.4,80.4,4.8,1
+665,EMP-0497,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.6,36.6,2025-12-05,92.0,92.0,3.9,1
+666,EMP-0149,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.8,21.8,2026-02-21,78.8,78.8,4.1,0
+667,EMP-0183,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,15.7,15.7,2025-03-24,69.6,69.6,3.9,0
+668,EMP-0140,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.8,28.8,2023-03-21,87.3,87.3,3.3,1
+669,EMP-0368,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.8,26.8,2023-04-23,65.4,65.4,3.9,0
+670,EMP-0344,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.3,30.3,2021-05-26,86.8,86.8,3.1,1
+671,EMP-0062,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.6,32.6,2022-07-28,77.2,77.2,4.0,0
+672,EMP-0114,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.9,31.9,2026-03-08,94.8,94.8,3.9,1
+673,EMP-0429,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.4,29.4,2024-11-22,78.6,78.6,3.9,0
+674,EMP-0226,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,24.3,24.3,2022-10-19,81.7,81.7,3.9,1
+675,EMP-0175,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,20.4,20.4,2023-08-13,98.2,98.2,4.1,1
+676,EMP-0089,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.0,9.0,2026-07-11,79.4,79.4,4.3,0
+677,EMP-0222,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.3,19.3,2026-05-08,76.7,76.7,3.4,0
+678,EMP-0474,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.5,32.5,2021-03-15,73.5,73.5,4.9,0
+679,EMP-0439,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.5,22.5,2023-10-27,77.1,77.1,4.0,0
+680,EMP-0336,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.6,12.6,2023-07-14,73.8,73.8,3.9,0
+681,EMP-0153,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,22.5,22.5,2021-02-04,72.3,72.3,4.5,0
+682,EMP-0428,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,43.3,43.3,2021-06-28,88.3,88.3,4.3,1
+683,EMP-0482,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,40.8,40.8,2021-06-01,70.5,70.5,3.5,0
+684,EMP-0436,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.5,46.5,2025-06-18,82.3,82.3,3.6,1
+685,EMP-0491,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.3,35.3,2026-02-11,88.5,88.5,3.7,1
+686,EMP-0508,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,20.7,20.7,2021-12-21,93.2,93.2,3.7,1
+687,EMP-0572,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.4,41.4,2025-08-07,93.8,93.8,3.6,1
+688,EMP-0224,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,27.6,27.6,2025-01-22,79.8,79.8,4.2,0
+689,EMP-0303,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.4,21.4,2022-01-21,100.0,100.0,4.5,1
+690,EMP-0017,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.8,24.8,2024-06-16,69.0,69.0,4.2,0
+691,EMP-0166,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,29.8,29.8,2021-04-24,99.5,99.5,4.2,1
+692,EMP-0466,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.0,27.0,2022-08-05,72.7,72.7,4.4,0
+693,EMP-0416,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.1,36.1,2025-03-12,65.0,65.0,4.2,0
+694,EMP-0476,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,35.9,35.9,2021-10-31,69.1,69.1,5.0,0
+695,EMP-0395,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,19.5,19.5,2021-05-28,76.2,76.2,4.1,0
+696,EMP-0304,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.7,10.7,2024-01-25,71.3,71.3,3.9,0
+697,EMP-0556,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.1,23.1,2023-05-13,76.6,76.6,4.4,0
+698,EMP-0083,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,17.8,17.8,2024-10-21,70.8,70.8,4.8,0
+699,EMP-0057,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,39.5,39.5,2025-02-13,99.0,99.0,4.7,1
+700,EMP-0053,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.7,36.7,2025-05-02,77.8,77.8,4.0,0
+701,EMP-0375,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.8,28.8,2021-07-01,83.8,83.8,3.7,1
+702,EMP-0375,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,16.3,16.3,2023-01-02,84.5,84.5,4.0,1
+703,EMP-0573,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,45.0,45.0,2023-05-03,80.7,80.7,3.3,1
+704,EMP-0142,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,12.0,12.0,2023-09-19,88.7,88.7,3.8,1
+705,EMP-0553,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.0,32.0,2026-05-28,95.3,95.3,4.3,1
+706,EMP-0215,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.6,21.6,2024-08-19,55.7,55.7,4.5,0
+707,EMP-0362,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.1,30.1,2026-09-08,94.4,94.4,3.7,1
+708,EMP-0434,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.5,28.5,2021-08-26,84.8,84.8,4.8,1
+709,EMP-0065,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.0,17.0,2024-11-29,75.3,75.3,4.8,0
+710,EMP-0464,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.8,26.8,2026-08-30,83.7,83.7,4.6,1
+711,EMP-0540,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,42.3,42.3,2026-04-24,85.5,85.5,5.0,1
+712,EMP-0545,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.6,47.6,2024-04-26,84.8,84.8,3.9,1
+713,EMP-0463,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,21.3,21.3,2025-03-02,84.8,84.8,4.7,1
+714,EMP-0068,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.8,25.8,2026-03-05,77.0,77.0,4.3,0
+715,EMP-0090,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.3,33.3,2025-06-03,87.2,87.2,3.9,1
+716,EMP-0184,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,24.4,24.4,2021-11-26,71.3,71.3,3.6,0
+717,EMP-0112,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.9,29.9,2024-02-19,74.0,74.0,4.2,0
+718,EMP-0115,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.4,30.4,2026-08-09,86.9,86.9,4.4,1
+719,EMP-0155,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.7,22.7,2021-04-17,93.8,93.8,3.7,1
+720,EMP-0301,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,16.0,16.0,2022-07-09,83.5,83.5,4.0,1
+721,EMP-0486,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,20.5,20.5,2025-10-01,87.3,87.3,3.7,1
+722,EMP-0455,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.5,41.5,2024-04-23,85.4,85.4,4.7,1
+723,EMP-0194,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.3,38.3,2021-04-15,88.2,88.2,4.0,1
+724,EMP-0238,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,47.2,47.2,2024-10-21,79.6,79.6,3.4,0
+725,EMP-0422,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,25.1,25.1,2024-11-19,71.4,71.4,4.3,0
+726,EMP-0335,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.7,26.7,2026-01-12,79.7,79.7,4.5,0
+727,EMP-0469,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.9,26.9,2022-07-09,86.3,86.3,4.4,1
+728,EMP-0314,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,28.9,28.9,2023-12-15,90.7,90.7,4.9,1
+729,EMP-0233,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,36.1,36.1,2025-03-18,79.5,79.5,4.3,0
+730,EMP-0296,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.0,41.0,2022-09-14,88.3,88.3,5.0,1
+731,EMP-0362,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,31.9,31.9,2026-02-25,86.9,86.9,3.7,1
+732,EMP-0171,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,28.2,28.2,2022-11-04,77.5,77.5,2.9,0
+733,EMP-0549,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,20.9,20.9,2023-01-31,85.1,85.1,3.6,1
+734,EMP-0180,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.2,32.2,2022-11-06,67.8,67.8,4.4,0
+735,EMP-0244,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.3,38.3,2021-07-02,83.7,83.7,3.9,1
+736,EMP-0325,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.5,23.5,2022-06-17,78.2,78.2,4.1,0
+737,EMP-0452,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.0,28.0,2025-03-09,79.5,79.5,5.0,0
+738,EMP-0189,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,24.0,24.0,2021-06-06,69.9,69.9,3.7,0
+739,EMP-0325,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.9,14.9,2022-09-12,74.5,74.5,4.7,0
+740,EMP-0382,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,22.3,22.3,2022-11-11,80.9,80.9,4.7,1
+741,EMP-0547,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,27.5,27.5,2022-05-27,,,4.2,1
+742,EMP-0026,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.9,11.9,2026-08-22,86.9,86.9,3.3,1
+743,EMP-0149,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,32.8,32.8,2024-08-18,64.0,64.0,4.8,0
+744,EMP-0160,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.7,41.7,2026-09-24,86.5,86.5,5.0,1
+745,EMP-0340,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.7,34.7,2026-05-10,89.7,89.7,4.1,1
+746,EMP-0297,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.6,18.6,2022-09-09,90.0,90.0,4.4,1
+747,EMP-0453,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.2,17.2,2022-04-20,81.5,81.5,4.0,1
+748,EMP-0491,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,34.4,34.4,2022-08-09,88.1,88.1,4.1,1
+749,EMP-0565,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.0,35.0,2024-06-29,64.8,64.8,4.2,0
+750,EMP-0026,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2023-07-06,77.9,77.9,4.6,0
+751,EMP-0457,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,16.3,16.3,2022-01-28,81.0,81.0,3.8,1
+752,EMP-0335,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.8,37.8,2023-03-25,97.1,97.1,4.6,1
+753,EMP-0540,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.2,22.2,2024-02-27,81.0,81.0,4.3,1
+754,EMP-0201,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,41.8,41.8,2021-12-23,81.8,81.8,3.3,1
+755,EMP-0552,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.9,27.9,2022-01-07,81.1,81.1,5.0,1
+756,EMP-0525,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,22.8,22.8,2023-03-22,88.1,88.1,3.9,1
+757,EMP-0503,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,18.7,18.7,2026-10-11,65.9,65.9,3.9,0
+758,EMP-0058,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,9.5,9.5,2025-07-01,87.2,87.2,3.6,1
+759,EMP-0152,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.9,10.9,2025-03-09,81.6,81.6,4.2,1
+760,EMP-0396,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.1,14.1,2021-03-05,85.2,85.2,3.6,1
+761,EMP-0292,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,23.0,23.0,2024-12-24,72.2,72.2,4.2,0
+762,EMP-0316,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,30.5,30.5,2022-01-08,88.5,88.5,4.6,1
+763,EMP-0221,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,21.6,21.6,2025-09-13,73.3,73.3,4.3,0
+764,EMP-0454,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,31.9,31.9,2022-11-16,93.9,93.9,3.9,1
+765,EMP-0435,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.4,8.4,2022-08-09,76.8,76.8,5.0,0
+766,EMP-0089,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,38.0,38.0,2023-05-16,80.4,80.4,4.8,1
+767,EMP-0311,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.7,25.7,2024-10-19,91.1,91.1,3.5,1
+768,EMP-0068,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,21.4,21.4,2025-04-03,91.7,91.7,4.0,1
+769,EMP-0091,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.5,42.5,2025-08-19,76.7,76.7,4.4,0
+770,EMP-0280,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.1,10.1,2023-01-01,89.8,89.8,3.6,1
+771,EMP-0570,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.9,23.9,2022-07-29,94.4,94.4,3.0,1
+772,EMP-0205,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.4,29.4,2025-04-27,80.7,80.7,4.4,1
+773,EMP-0297,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.1,46.1,2026-07-17,71.3,71.3,4.8,0
+774,EMP-0044,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.2,34.2,2024-06-12,78.4,78.4,3.3,0
+775,EMP-0506,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.2,49.2,2026-03-28,83.7,83.7,3.9,1
+776,EMP-0230,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,32.2,32.2,2021-01-25,79.4,79.4,4.6,0
+777,EMP-0158,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,33.7,33.7,2024-05-28,81.6,81.6,3.9,1
+778,EMP-0484,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.9,38.9,2024-04-07,71.2,71.2,3.5,0
+779,EMP-0428,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.6,31.6,2026-07-22,,,5.0,1
+780,EMP-0251,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,34.7,34.7,2022-05-18,77.8,77.8,5.0,0
+781,EMP-0284,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,25.2,25.2,2021-10-15,97.4,97.4,4.7,1
+782,EMP-0371,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,24.8,24.8,2026-06-06,77.8,77.8,4.0,0
+783,EMP-0447,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.4,26.4,2026-05-18,89.6,89.6,3.4,1
+784,EMP-0123,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.3,15.3,2026-10-15,97.5,97.5,4.5,1
+785,EMP-0018,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.0,34.0,2022-11-13,66.4,66.4,3.7,0
+786,EMP-0060,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,36.7,36.7,2024-08-16,83.2,83.2,3.7,1
+787,EMP-0473,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.5,34.5,2025-01-17,76.9,76.9,5.0,0
+788,EMP-0168,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.4,42.4,2024-02-05,73.2,73.2,4.6,0
+789,EMP-0370,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,18.5,18.5,2025-01-12,81.9,81.9,3.8,1
+790,EMP-0050,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.2,30.2,2024-04-23,76.2,76.2,4.1,0
+791,EMP-0543,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,30.4,30.4,2026-10-20,90.3,90.3,3.6,1
+792,EMP-0199,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.4,34.4,2022-02-06,79.1,79.1,4.3,0
+793,EMP-0172,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.1,46.1,2024-08-28,83.9,83.9,4.4,1
+794,EMP-0324,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.6,28.6,2024-01-31,65.6,65.6,4.4,0
+795,EMP-0372,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.6,37.6,2024-12-25,68.4,68.4,3.7,0
+796,EMP-0148,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.6,38.6,2022-07-29,60.2,60.2,4.6,0
+797,EMP-0531,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.0,28.0,2025-03-22,84.7,84.7,3.7,1
+798,EMP-0497,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,20.1,20.1,2024-11-08,68.5,68.5,4.0,0
+799,EMP-0167,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,40.8,40.8,2023-06-26,71.1,71.1,4.2,0
+800,EMP-0159,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.5,50.5,2023-07-09,67.7,67.7,3.9,0
+801,EMP-0193,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.8,48.8,2022-04-26,86.3,86.3,3.8,1
+802,EMP-0428,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,35.4,35.4,2021-11-23,86.6,86.6,4.6,1
+803,EMP-0120,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,34.9,34.9,2021-03-27,67.1,67.1,4.1,0
+804,EMP-0492,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.9,15.9,2024-07-14,79.6,79.6,4.3,0
+805,EMP-0372,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,23.6,23.6,2025-12-30,83.2,83.2,4.0,1
+806,EMP-0536,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,8.0,8.0,2022-12-21,86.0,86.0,3.6,1
+807,EMP-0312,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,38.5,38.5,2022-05-15,79.6,79.6,3.3,0
+808,EMP-0228,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,25.1,25.1,2022-08-21,87.2,87.2,3.9,1
+809,EMP-0233,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.4,28.4,2022-06-12,82.7,82.7,3.3,1
+810,EMP-0215,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,30.4,30.4,2021-12-02,80.9,80.9,5.0,1
+811,EMP-0436,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,32.3,32.3,2021-11-29,89.5,89.5,4.2,1
+812,EMP-0020,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.5,23.5,2025-11-16,76.0,76.0,4.6,0
+813,EMP-0044,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.1,27.1,2022-04-01,77.1,77.1,4.4,0
+814,EMP-0034,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,43.9,43.9,2021-09-14,80.3,80.3,4.0,1
+815,EMP-0481,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,39.7,39.7,2023-11-17,86.4,86.4,3.9,1
+816,EMP-0045,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.7,33.7,2024-06-03,81.7,81.7,4.1,1
+817,EMP-0011,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,34.9,34.9,2022-06-06,78.7,78.7,4.9,0
+818,EMP-0211,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.2,18.2,2023-04-14,84.8,84.8,5.0,1
+819,EMP-0190,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,12.6,12.6,2021-05-14,83.8,83.8,4.3,1
+820,EMP-0093,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.0,32.0,2024-02-25,82.4,82.4,3.8,1
+821,EMP-0357,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.4,17.4,2022-11-03,64.5,64.5,5.0,0
+822,EMP-0513,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,26.9,26.9,2023-10-02,78.9,78.9,4.7,0
+823,EMP-0518,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,18.8,18.8,2021-10-21,82.1,82.1,3.9,1
+824,EMP-0102,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.3,23.3,2021-03-13,76.5,76.5,4.6,0
+825,EMP-0542,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,23.8,23.8,2023-03-10,81.8,81.8,3.5,1
+826,EMP-0289,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.2,32.2,2021-02-01,71.1,71.1,4.2,0
+827,EMP-0102,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,31.8,31.8,2026-09-11,68.8,68.8,4.1,0
+828,EMP-0487,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.5,13.5,2023-02-12,72.1,72.1,3.8,0
+829,EMP-0451,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,41.9,41.9,2023-01-25,98.5,98.5,3.7,1
+830,EMP-0364,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.6,13.6,2025-10-18,73.3,73.3,3.9,0
+831,EMP-0220,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,39.8,39.8,2023-08-05,100.0,100.0,4.7,1
+832,EMP-0418,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.4,33.4,2024-07-25,84.7,84.7,4.0,1
+833,EMP-0127,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,31.8,31.8,2022-04-11,78.8,78.8,4.1,0
+834,EMP-0533,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.4,29.4,2026-08-07,87.7,87.7,5.0,1
+835,EMP-0370,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.9,28.9,2021-06-30,79.2,79.2,4.2,0
+836,EMP-0085,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.0,17.0,2026-07-30,79.2,79.2,4.0,0
+837,EMP-0119,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.3,12.3,2024-03-21,65.4,65.4,3.9,0
+838,EMP-0468,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,12.0,12.0,2024-07-15,77.3,77.3,3.7,0
+839,EMP-0455,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,26.5,26.5,2025-08-10,75.0,75.0,4.0,0
+840,EMP-0298,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2023-02-27,91.7,91.7,3.7,1
+841,EMP-0072,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.1,26.1,2025-02-28,89.4,89.4,4.6,1
+842,EMP-0184,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,35.6,35.6,2026-07-21,87.0,87.0,3.6,1
+843,EMP-0108,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,12.9,12.9,2025-12-14,74.5,74.5,3.7,0
+844,EMP-0536,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.1,36.1,2022-05-18,75.1,75.1,5.0,0
+845,EMP-0147,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,9.5,9.5,2025-07-13,70.7,70.7,3.8,0
+846,EMP-0105,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,31.9,31.9,2021-10-07,83.1,83.1,4.4,1
+847,EMP-0373,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.6,27.6,2024-11-02,66.1,66.1,4.7,0
+848,EMP-0206,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,16.3,16.3,2025-07-28,85.8,85.8,5.0,1
+849,EMP-0126,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,20.8,20.8,2025-10-20,74.0,74.0,3.7,0
+850,EMP-0512,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.6,28.6,2024-02-07,94.0,94.0,3.6,1
+851,EMP-0410,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.0,14.0,2026-05-17,91.3,91.3,4.5,1
+852,EMP-0415,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.0,26.0,2026-10-10,80.0,80.0,4.7,1
+853,EMP-0286,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,38.3,38.3,2026-02-20,98.2,98.2,4.9,1
+854,EMP-0111,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,33.3,33.3,2023-11-07,99.3,99.3,3.8,1
+855,EMP-0502,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,21.4,21.4,2023-08-18,83.1,83.1,4.9,1
+856,EMP-0138,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.7,42.7,2022-02-26,81.3,81.3,4.3,1
+857,EMP-0055,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,38.1,38.1,2026-08-17,83.4,83.4,4.1,1
+858,EMP-0028,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,29.0,29.0,2025-05-01,83.1,83.1,4.1,1
+859,EMP-0335,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.0,32.0,2024-06-08,91.9,91.9,4.1,1
+860,EMP-0099,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.2,35.2,2026-11-14,83.8,83.8,5.0,1
+861,EMP-0505,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,23.6,23.6,2023-04-22,92.4,92.4,4.1,1
+862,EMP-0301,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,27.8,27.8,2026-07-16,69.5,69.5,5.0,0
+863,EMP-0517,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.9,30.9,2024-11-22,88.3,88.3,3.5,1
+864,EMP-0554,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,45.4,45.4,2021-03-28,85.9,85.9,4.1,1
+865,EMP-0033,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.8,13.8,2022-05-17,100.0,100.0,4.5,1
+866,EMP-0393,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.2,26.2,2024-07-26,75.8,75.8,3.8,0
+867,EMP-0386,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.3,26.3,2026-03-12,78.3,78.3,4.3,0
+868,EMP-0037,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.1,42.1,2023-01-09,86.1,86.1,4.3,1
+869,EMP-0571,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.8,30.8,2022-11-18,100.0,100.0,3.8,1
+870,EMP-0504,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.9,11.9,2022-07-19,65.0,65.0,4.0,0
+871,EMP-0320,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.4,8.4,2026-07-04,75.1,75.1,3.6,0
+872,EMP-0113,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,14.6,14.6,2026-07-17,83.2,83.2,4.6,1
+873,EMP-0568,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,44.9,44.9,2026-04-23,62.7,62.7,4.3,0
+874,EMP-0488,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,49.9,49.9,2022-10-17,88.4,88.4,3.7,1
+875,EMP-0519,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.6,37.6,2025-06-06,71.5,71.5,3.8,0
+876,EMP-0270,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,24.8,24.8,2025-04-11,77.2,77.2,4.1,0
+877,EMP-0362,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.5,30.5,2024-08-19,74.0,74.0,4.1,0
+878,EMP-0063,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.4,36.4,2021-07-18,65.3,65.3,4.5,0
+879,EMP-0132,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.3,13.3,2024-12-13,65.5,65.5,4.5,0
+880,EMP-0028,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.0,15.0,2025-04-22,86.3,86.3,4.4,1
+881,EMP-0100,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2024-11-28,90.8,90.8,3.3,1
+882,EMP-0366,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,10.4,10.4,2024-12-23,77.6,77.6,3.8,0
+883,EMP-0058,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,28.9,28.9,2023-10-26,84.9,84.9,3.5,1
+884,EMP-0241,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,24.9,24.9,2021-12-28,100.0,100.0,4.0,1
+885,EMP-0068,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.8,26.8,2022-04-28,93.0,93.0,3.3,1
+886,EMP-0346,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,37.5,37.5,2021-04-05,,,4.5,0
+887,EMP-0552,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,14.1,14.1,2021-06-17,67.0,67.0,4.3,0
+888,EMP-0472,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,15.8,15.8,2026-10-24,59.7,59.7,3.6,0
+889,EMP-0432,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,35.0,35.0,2021-04-08,85.8,85.8,4.4,1
+890,EMP-0481,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.7,23.7,2021-04-16,,,4.3,1
+891,EMP-0325,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,16.5,16.5,2025-06-01,78.3,78.3,4.2,0
+892,EMP-0331,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,23.3,23.3,2022-02-19,74.7,74.7,4.9,0
+893,EMP-0501,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,37.2,37.2,2023-05-08,71.1,71.1,4.1,0
+894,EMP-0345,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,22.5,22.5,2026-09-05,82.8,82.8,4.0,1
+895,EMP-0348,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,28.5,28.5,2024-05-25,65.1,65.1,3.8,0
+896,EMP-0373,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,11.3,11.3,2023-04-21,78.5,78.5,3.5,0
+897,EMP-0509,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,36.1,36.1,2023-06-10,72.6,72.6,4.7,0
+898,EMP-0295,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,34.3,34.3,2021-07-28,79.6,79.6,5.0,0
+899,EMP-0305,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.4,19.4,2025-07-19,69.6,69.6,4.8,0
+900,EMP-0232,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,26.5,26.5,2022-01-26,91.4,91.4,3.8,1
+901,EMP-0098,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,15.1,15.1,2024-10-25,,,5.0,0
+902,EMP-0280,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,31.3,31.3,2026-05-15,89.8,89.8,4.2,1
+903,EMP-0438,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.8,27.8,2024-12-07,70.0,70.0,4.1,0
+904,EMP-0079,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,26.4,26.4,2026-09-13,74.0,74.0,4.6,0
+905,EMP-0308,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.0,8.0,2024-07-21,84.8,84.8,4.2,1
+906,EMP-0205,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,8.2,8.2,2025-07-20,75.0,75.0,4.4,0
+907,EMP-0258,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.9,19.9,2026-10-26,82.4,82.4,4.1,1
+908,EMP-0465,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.8,46.8,2023-01-24,81.8,81.8,4.9,1
+909,EMP-0020,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,50.1,50.1,2023-02-18,80.8,80.8,3.7,1
+910,EMP-0512,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,22.3,22.3,2026-04-13,73.3,73.3,3.8,0
+911,EMP-0275,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,40.5,40.5,2025-11-26,81.9,81.9,5.0,1
+912,EMP-0062,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.8,48.8,2023-04-16,88.9,88.9,4.7,1
+913,EMP-0374,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,26.9,26.9,2022-09-12,79.9,79.9,3.5,0
+914,EMP-0247,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,32.8,32.8,2024-05-28,82.5,82.5,3.8,1
+915,EMP-0446,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,16.6,16.6,2024-08-12,74.6,74.6,5.0,0
+916,EMP-0066,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.6,25.6,2025-08-31,81.8,81.8,5.0,1
+917,EMP-0274,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,20.9,20.9,2022-11-03,79.3,79.3,4.0,0
+918,EMP-0263,"Product Discovery, UI/UX & Roadmapping","Product Discovery, UI/UX & Roadmapping",Domain Specialization,19.3,19.3,2023-09-09,84.1,84.1,4.1,1
+919,EMP-0416,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,29.6,29.6,2022-04-25,86.1,86.1,4.4,1
+920,EMP-0154,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.8,25.8,2021-05-08,69.8,69.8,4.3,0
+921,EMP-0252,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,30.9,30.9,2026-03-31,71.3,71.3,4.6,0
+922,EMP-0498,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,39.9,39.9,2025-12-06,100.0,100.0,4.2,1
+923,EMP-0433,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,36.6,36.6,2023-04-22,87.9,87.9,4.5,1
+924,EMP-0164,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,38.2,38.2,2022-07-27,98.9,98.9,3.5,1
+925,EMP-0030,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,28.9,28.9,2024-02-26,73.4,73.4,4.6,0
+926,EMP-0564,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,37.7,37.7,2021-07-06,69.5,69.5,4.2,0
+927,EMP-0498,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.5,37.5,2021-08-29,90.0,90.0,4.4,1
+928,EMP-0086,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,20.7,20.7,2024-05-19,78.0,78.0,4.1,0
+929,EMP-0066,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.6,13.6,2025-02-11,79.4,79.4,4.3,0
+930,EMP-0093,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,17.1,17.1,2022-08-13,100.0,100.0,4.0,1
+931,EMP-0242,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,44.6,44.6,2026-08-26,77.2,77.2,4.6,0
+932,EMP-0124,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,46.0,46.0,2023-11-12,72.2,72.2,4.8,0
+933,EMP-0509,Modern Data Engineering with Spark & SQL,Modern Data Engineering with Spark & SQL,Technical,35.8,35.8,2023-09-17,94.2,94.2,4.6,1
+934,EMP-0126,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.6,17.6,2024-09-24,87.2,87.2,4.7,1
+935,EMP-0400,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,27.7,27.7,2025-10-13,78.2,78.2,4.4,0
+936,EMP-0224,DevOps CI/CD & Kubernetes Mastery,DevOps CI/CD & Kubernetes Mastery,Technical,38.0,38.0,2022-03-28,82.4,82.4,4.0,1
+937,EMP-0180,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,21.5,21.5,2024-02-13,90.1,90.1,4.1,1
+938,EMP-0451,"Corporate Compliance, DEI & Workplace Ethics","Corporate Compliance, DEI & Workplace Ethics",Compliance,13.4,13.4,2023-11-22,79.3,79.3,4.8,0
+939,EMP-0058,"Financial Modeling, Valuation & Risk","Financial Modeling, Valuation & Risk",Domain Specialization,28.6,28.6,2025-03-29,95.6,95.6,4.9,1
+940,EMP-0116,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,15.6,15.6,2025-10-16,94.7,94.7,4.0,1
+941,EMP-0487,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,25.1,25.1,2024-02-26,74.6,74.6,4.5,0
+942,EMP-0149,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,17.2,17.2,2026-05-15,86.9,86.9,3.5,1
+943,EMP-0377,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,22.0,22.0,2021-04-11,71.2,71.2,4.4,0
+944,EMP-0036,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,42.7,42.7,2023-09-23,92.7,92.7,4.0,1
+945,EMP-0260,Applied Machine Learning & AI Workflows,Applied Machine Learning & AI Workflows,Technical,48.8,48.8,2025-05-09,75.3,75.3,4.9,0
+946,EMP-0317,High-Impact Communication & Presentation,High-Impact Communication & Presentation,Soft Skills,13.2,13.2,2022-05-29,93.2,93.2,4.1,1
+947,EMP-0548,Enterprise Sales & Negotiation Tactics,Enterprise Sales & Negotiation Tactics,Domain Specialization,30.3,30.3,2026-01-01,83.7,83.7,4.3,1
+948,EMP-0398,Advanced Python & Cloud Architecture,Advanced Python & Cloud Architecture,Technical,37.0,37.0,2025-06-12,100.0,100.0,4.7,1
+949,EMP-0262,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.0,32.0,2022-01-19,84.3,84.3,3.9,1
+950,EMP-0242,Strategic Leadership & Agile Management,Strategic Leadership & Agile Management,Leadership,32.7,32.7,2023-05-26,81.4,81.4,4.2,1
