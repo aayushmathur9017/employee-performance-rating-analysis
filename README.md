@@ -8,12 +8,11 @@
 
 ---
 
-## 🎓 Capstone Project Attribution
+## 🎓 HCL Project 
 - **Student Name**: Aayush Mathur
 - **University Enrolment No**: `2500320140001`
 - **Program & Section**: Master of Computer Applications (MCA) | Section: MCA-B
 - **Institution**: ABES Engineering College, Ghaziabad
-- **Academic Capstone**: Major Project (Semester III/IV)
 - **Evaluation Period**: 2021 – 2026 (Extended 6-Year Longitudinal Dataset)
 
 ---
