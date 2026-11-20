@@ -27,5 +27,9 @@ venv.bak/
 Thumbs.db
 desktop.ini
 
+# Archives & Submission bundles
+*.zip
+LMS_SUBMISSION_FILES/
+
 # Logs
 *.log

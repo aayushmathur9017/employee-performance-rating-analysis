@@ -304,14 +304,48 @@ with st.container(border=True):
     # Filter table dynamically
     display_df = filtered_df.copy()
     if search_kw:
-        kw = search_kw.lower()
-        display_df = display_df[
-            display_df["full_name"].astype(str).str.lower().str.contains(kw) |
-            display_df["dept_name"].astype(str).str.lower().str.contains(kw) |
-            display_df["job_title"].astype(str).str.lower().str.contains(kw)
-        ]
+        kw = search_kw.lower().strip()
+        mask = (
+            display_df["full_name"].astype(str).str.lower().str.contains(kw, na=False) |
+            display_df["dept_name"].astype(str).str.lower().str.contains(kw, na=False)
+        )
+        if "job_role" in display_df.columns:
+            mask = mask | display_df["job_role"].astype(str).str.lower().str.contains(kw, na=False)
+        elif "role_title" in display_df.columns:
+            mask = mask | display_df["role_title"].astype(str).str.lower().str.contains(kw, na=False)
+        elif "job_title" in display_df.columns:
+            mask = mask | display_df["job_title"].astype(str).str.lower().str.contains(kw, na=False)
 
-    show_cols = [c for c in ["employee_id", "full_name", "dept_name", "job_title", "performance_rating", "review_period", "monthly_absenteeism_rate"] if c in display_df.columns]
+        if "emp_id" in display_df.columns:
+            mask = mask | display_df["emp_id"].astype(str).str.lower().str.contains(kw, na=False)
+        elif "employee_id" in display_df.columns:
+            mask = mask | display_df["employee_id"].astype(str).str.lower().str.contains(kw, na=False)
+
+        display_df = display_df[mask]
+
+    desired_cols = []
+    if "emp_id" in display_df.columns:
+        desired_cols.append("emp_id")
+    elif "employee_id" in display_df.columns:
+        desired_cols.append("employee_id")
+
+    if "full_name" in display_df.columns:
+        desired_cols.append("full_name")
+    if "dept_name" in display_df.columns:
+        desired_cols.append("dept_name")
+
+    if "job_role" in display_df.columns:
+        desired_cols.append("job_role")
+    elif "role_title" in display_df.columns:
+        desired_cols.append("role_title")
+    elif "job_title" in display_df.columns:
+        desired_cols.append("job_title")
+
+    for c in ["performance_rating", "review_period", "monthly_absenteeism_rate"]:
+        if c in display_df.columns:
+            desired_cols.append(c)
+
+    show_cols = [c for c in desired_cols if c in display_df.columns]
     
     if not display_df.empty:
         st.dataframe(
@@ -319,9 +353,12 @@ with st.container(border=True):
             use_container_width=True,
             hide_index=True,
             column_config={
+                "emp_id": st.column_config.TextColumn("ID", width="small"),
                 "employee_id": st.column_config.TextColumn("ID", width="small"),
                 "full_name": st.column_config.TextColumn("Employee Name", width="medium"),
                 "dept_name": st.column_config.TextColumn("Department", width="medium"),
+                "job_role": st.column_config.TextColumn("Job Role", width="large"),
+                "role_title": st.column_config.TextColumn("Job Title", width="large"),
                 "job_title": st.column_config.TextColumn("Job Title", width="large"),
                 "performance_rating": st.column_config.ProgressColumn(
                     "Rating (out of 5)",
