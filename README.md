@@ -29,6 +29,30 @@
 
 ---
 
+## 📸 Application Screenshots & UI Showcase
+
+### 1. Executive Analytics & KPI Telemetry Dashboard
+> Real-time appraisal calibration, department benchmarks, rating distributions, and strategic headcount telemetry.
+
+![Executive Analytics & KPI Dashboard](docs/screenshots/01_Executive_Dashboard.jpg)
+
+### 2. Live Streamlit Workforce Dashboard & Analytics
+> Dynamic KPI summary cards (575 employees, 3.5/5.0 avg rating, 95.0% productivity, 96.5% attendance) and departmental rating calibration.
+
+![Live Streamlit Workforce Dashboard](docs/screenshots/02_Live_Streamlit_Dashboard.png)
+
+### 3. Departmental Benchmark & Performance Metrics
+> Granular workforce appraisal metrics, attrition telemetry, and performance distribution breakdown.
+
+![Departmental Benchmark & Performance Metrics](docs/screenshots/03_KPI_Metrics_Overview.jpg)
+
+### 4. Relational Database Architecture (3NF Schema ER Diagram)
+> Normalized relational database schema enforcing referential integrity across 5 core tables in SQLite3.
+
+![Database Architecture ER Diagram](docs/screenshots/04_Database_ER_Diagram.png)
+
+---
+
 ## 🏛️ Application Architecture & Navigation
 
 ```
