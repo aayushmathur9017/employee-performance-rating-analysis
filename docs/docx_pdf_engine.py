@@ -222,7 +222,7 @@ def convert_docx(docx_path: str, pdf_path: str, doc_title: str = "Academic Docum
         p.insert_text((MARGIN_LEFT, 814), f"Employee Performance Rating Analysis | {doc_title}", fontsize=7.5, fontname="helv", color=TEXT_MUTED)
         p.insert_text((MARGIN_RIGHT - 65, 814), f"Page {idx+1} of {total_pages}", fontsize=7.5, fontname="Helvetica-Bold", color=NAVY_HEADER)
 
-    doc_pdf.save(pdf_path)
+    doc_pdf.save(pdf_path, deflate=True, garbage=4, clean=True)
     print(f"Generated: {pdf_path} ({total_pages} pages)")
     return True
 
