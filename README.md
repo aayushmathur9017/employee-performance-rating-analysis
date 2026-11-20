@@ -144,4 +144,4 @@ tests/test_data.py ......                                                [100%]
 ---
 
 ## 📄 License & Academic Integrity
-This project is developed as part of the MCA Major Capstone curriculum at **ABES Engineering College, Ghaziabad** by **Aayush Mathur (2500320140001)**. Distributed under the MIT License.
+This project is developed as part of the MCA HCL Training  at **ABES Engineering College, Ghaziabad** by **Aayush Mathur (2500320140001)**. Distributed under the MIT License.
